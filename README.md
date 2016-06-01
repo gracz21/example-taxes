@@ -1,2 +1,2 @@
 # example-taxes
-Exercise for code refactoring on on Modeling and Analysis of IT Systems subject
+Exercise for code refactoring on Modeling and Analysis of IT Systems subject
